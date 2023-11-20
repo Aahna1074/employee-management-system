@@ -1,0 +1,15 @@
+---------- Resume ----------
+
+Name: aayush
+Designation: developer
+Contact Number: 529848959
+Email: aayush@gmail.com
+Address: chennai
+
+Education: Btech
+
+Experience: No
+
+Skills: C++
+
+---------------------------
